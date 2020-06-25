@@ -1,0 +1,24 @@
+{
+  "name": "excelcopypaste",
+  "version": "1.0.0",
+  "description": "Copiar y pegar desde excel a HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salazarcode/excelcopypaste.git"
+  },
+  "keywords": [
+    "copypaste",
+    "excel",
+    "html"
+  ],
+  "author": "Andrés Salazar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salazarcode/excelcopypaste/issues"
+  },
+  "homepage": "https://github.com/salazarcode/excelcopypaste#readme"
+}
